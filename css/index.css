@@ -1,0 +1,15 @@
+h1{
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.cuerpo{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+footer{
+    background-color: aqua;
+    text-align: center;
+}
